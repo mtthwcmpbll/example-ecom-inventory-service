@@ -1,0 +1,8 @@
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/repository/InventoryRepositoryCustom.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/repository/InventoryRepository.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/listener/InventoryListener.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/config/RabbitMQConfig.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/repository/InventoryRepositoryImpl.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/target/generated-sources/java/com/example/ecom/inventory/model/QInventory.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/model/Inventory.java
+/Users/matt/workspaces/model-spring-upgrade/inventory-service/src/main/java/com/example/ecom/inventory/InventoryServiceApplication.java

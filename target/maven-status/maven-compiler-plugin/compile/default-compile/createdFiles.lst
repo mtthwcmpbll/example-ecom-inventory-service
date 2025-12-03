@@ -1,0 +1,8 @@
+com/example/ecom/inventory/repository/InventoryRepository.class
+com/example/ecom/inventory/listener/InventoryListener.class
+com/example/ecom/inventory/InventoryServiceApplication.class
+com/example/ecom/inventory/model/Inventory.class
+com/example/ecom/inventory/repository/InventoryRepositoryImpl.class
+com/example/ecom/inventory/repository/InventoryRepositoryCustom.class
+com/example/ecom/inventory/config/RabbitMQConfig.class
+com/example/ecom/inventory/model/QInventory.class
